@@ -1,4 +1,4 @@
-﻿#Motivation
+# Motivation
 When moving to CHILI publish Online SaaS, you may want to merge environments. This tool will make the job nice and easy.
 
 #Limitations
@@ -9,7 +9,7 @@ Does not merge anything but the Resources at the moment. You can just merge ever
 If there is a file conflict, so two files with the same name that are not data XMLs, the file from the primary will override the secondary
 - This does not effect data XMLs, data XMLs are handled properly and either merged or renamed
 
-#Usage
+# Usage
 Download the from the Release page and unzip the file.
 
 Open up a command prompt (with proper permissions) and change directory to the newly download zip file.
